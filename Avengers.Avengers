@@ -1,0 +1,13 @@
+#include<marvel.universe>
+using earth's greatest heroes;
+main() {
+ summon (Ironman);
+ summon (Captain America);
+ summon (Thor);
+ summon (Hulk);
+ summon (Hawkeye);
+ summon (Black Widow);
+ Avengers.Assemble();
+ scream("Hello World");
+ return (Back to Avengers Tower);
+} 
